@@ -1,5 +1,5 @@
 gsap.to("body", { 
-    backgroundColor: #111, //Setting up background
+    backgroundColor: #111111, //Setting up background
 
   });
   
