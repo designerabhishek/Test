@@ -1,4 +1,4 @@
-gsap.to(".box", { 
+gsap.from(".box", { 
     x: 200,
   });
   
