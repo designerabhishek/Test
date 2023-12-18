@@ -1,5 +1,2 @@
-gsap.to("body", { 
-    backgroundColor: #111111, //Setting up background
-
-  });
+gsap.to(".box", {x = 200});
   
