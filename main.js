@@ -1,2 +1,4 @@
-gsap.to(".box", { x= 200 });
+gsap.to(".box", { 
+    x: 200,
+  });
   
